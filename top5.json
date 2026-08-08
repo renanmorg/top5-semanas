@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T08:14:24.835Z",
+  "updatedAt": "2026-08-08T11:14:25.664Z",
   "range": "2026-08-02 — 2026-08-08",
   "items": [
     {
@@ -7,7 +7,7 @@
       "title": "Cinema é Tudo Isso! - Blog",
       "url": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/os-melhores-filmes-de-2026-ate-agora",
       "path": "/cinema-eacute-tudo-isso---blog/os-melhores-filmes-de-2026-ate-agora",
-      "views": 875,
+      "views": 877,
       "image": ""
     },
     {
@@ -20,6 +20,14 @@
     },
     {
       "rank": 3,
+      "title": "Cinema é Tudo Isso! - Blog",
+      "url": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/termometro-de-sexta-os-10-filmes-mais-misteriosos-da-temporada-oscar-2027",
+      "path": "/cinema-eacute-tudo-isso---blog/termometro-de-sexta-os-10-filmes-mais-misteriosos-da-temporada-oscar-2027",
+      "views": 82,
+      "image": ""
+    },
+    {
+      "rank": 4,
       "title": "Paul Thomas Anderson acha que os filmes modernos precisam de um \"roteiro mais sólido\"!",
       "url": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/paul-thomas-anderson-acha-que-os-filmes-modernos-precisam-de-um-roteiro-mais-solido",
       "path": "/cinema-eacute-tudo-isso---blog/paul-thomas-anderson-acha-que-os-filmes-modernos-precisam-de-um-roteiro-mais-solido",
@@ -27,19 +35,11 @@
       "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/gettyimages-2266736813-e17736343_orig.jpg"
     },
     {
-      "rank": 4,
-      "title": "Festival de Nova York 2026: Seleção oficial divulgada, com \"Paper Tiger\", \"Behemoth!\" e \"Minotaur\"!",
+      "rank": 5,
+      "title": "Cinema é Tudo Isso! - Blog",
       "url": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/festival-de-nova-york-2026-selecao-oficial-divulgada-com-paper-tiger-behemoth-e-minotaur",
       "path": "/cinema-eacute-tudo-isso---blog/festival-de-nova-york-2026-selecao-oficial-divulgada-com-paper-tiger-behemoth-e-minotaur",
       "views": 80,
-      "image": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/cannes26-stills-watermarked-pape_orig.jpg"
-    },
-    {
-      "rank": 5,
-      "title": "Cinema é Tudo Isso! - Blog",
-      "url": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/termometro-de-sexta-os-10-filmes-mais-misteriosos-da-temporada-oscar-2027",
-      "path": "/cinema-eacute-tudo-isso---blog/termometro-de-sexta-os-10-filmes-mais-misteriosos-da-temporada-oscar-2027",
-      "views": 78,
       "image": ""
     }
   ]
